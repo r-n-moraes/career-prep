@@ -19,7 +19,4 @@
 - **Como você avaliaria a performance de uma aplicação backend e quais ferramentas você utilizaria para isso?**
 - **Como você lidaria com problemas de concorrência em um sistema distribuído?**
 
-## Cultura e Colaboração
 
-- **Como você se adapta a novos ambientes de trabalho e culturas organizacionais?**
-- **Você já liderou um projeto multi-cultural? Quais foram os desafios e como você os superou?**
