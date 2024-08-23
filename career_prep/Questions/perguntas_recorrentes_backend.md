@@ -18,5 +18,3 @@
 - **Quais são os desafios que você enfrentou em projetos anteriores e como você os resolveu?**
 - **Como você avaliaria a performance de uma aplicação backend e quais ferramentas você utilizaria para isso?**
 - **Como você lidaria com problemas de concorrência em um sistema distribuído?**
-
-
