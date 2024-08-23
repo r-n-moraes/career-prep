@@ -1,6 +1,6 @@
 # Perguntas Recorrentes em entrevistas internacionais
 
-## Perguntas Técnicas
+## Perguntas Técnicas (Backend)
 
 - **Descreva sua experiência com frameworks populares de backend (como Django, Flask, Spring, Express, etc.).**
 - **Como você lida com a escalabilidade de aplicações? Poderia dar um exemplo?**
